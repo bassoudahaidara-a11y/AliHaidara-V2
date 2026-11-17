@@ -1,0 +1,10 @@
+APPLICATION "ALI HAÏDARA" v1.1 - lecteur de cahier hors ligne + exercices
+
+1. Installe Android Studio sur un ordinateur, puis fais "Open" et choisis ce dossier.
+2. Attends la synchronisation (internet nécessaire une seule fois).
+3. Menu Build > Build APK(s). Envoie l'APK sur le téléphone et installe-le.
+4. Sur le téléphone : Réglages > Synthèse vocale, vérifie que la voix FRANÇAISE est téléchargée.
+
+LECTURE : photo ou PDF -> le texte s'affiche -> sélectionne la partie (appui long) -> choisis 1 mot, 2 mots, 3 mots ou Phrase -> Lire / Suivant.
+EXERCICES : écris tes questions et réponses (plusieurs réponses possibles avec /), lance le quiz : l'application dit si c'est trouvé ou non.
+DICTÉE : dans la lecture, bouton Dictée : l'application lit, l'enfant écrit ce qu'il entend.
